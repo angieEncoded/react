@@ -1,0 +1,50 @@
+{
+  "blogs": [
+    {
+      "title": "My Hobbies",
+      "body": "I love sleeping",
+      "author": "Babs",
+      "id": 1
+    },
+    {
+      "title": "Single Cat Home please!",
+      "body": "I hate Babs",
+      "author": "Rory",
+      "id": 2
+    },
+    {
+      "title": "I'm too old for this.",
+      "body": "Sasha is annoying",
+      "author": "Babs",
+      "id": 3
+    },
+    {
+      "title": "Babs is my hero!",
+      "body": "I am gonna be just like her when I grow up!",
+      "author": "Bubble",
+      "id": 4
+    },
+    {
+      "title": "Show off my bacon",
+      "body": "I'm just shakin shakin!",
+      "author": "Shakey",
+      "id": 5
+    },
+    {
+      "title": "Paper is tasty",
+      "body": "I put holes in the human's notes",
+      "author": "Sasha",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

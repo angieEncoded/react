@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "openingText": "json-server",
+      "releaseDate": "typicode",
+      "title": "Some title"
+    },
+    {
+      "title": "dfgf",
+      "openingText": "ffffff",
+      "releaseDate": "fffff",
+      "id": 2
+    },
+    {
+      "title": "A second movie",
+      "openingText": "fsdsd ds sda jdsj lskj ljal js;j klsaj ksdja kdja;ljlkasjlksadjl;kfsj lksdj lksdj lfdskj",
+      "releaseDate": "2021",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

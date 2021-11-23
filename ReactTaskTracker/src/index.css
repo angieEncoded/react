@@ -1,0 +1,54 @@
+html {
+    overflow-y: scroll;
+}
+
+/* Fix the modal jumping */
+/* .modal-open[style] {
+    padding-right: 0px !important;
+    } */
+
+body {
+    background-color: #115af8b6;
+    padding-right: 0px !important;
+}
+
+svg {
+    display: block;
+}
+
+.tracker-font {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.hidden{
+    display: none;
+}
+
+.clear {
+    all:unset;
+}
+
+.singleTask:hover {
+    cursor: pointer;
+    background-color:rgba(190, 227, 238, 0.644);
+}
+
+.singleTaskDelete:hover {
+
+    border-radius: 50%;
+    background-color:rgba(0, 0, 0, 0.644);
+}
+
+.reminder {
+    border-left: 2px solid green;
+}
+
+
+.btn-black {
+    background-color: #212529;
+    color:white;
+}
+.btn-black:hover {
+    background-color: black;
+    color:white;
+}

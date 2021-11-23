@@ -1,0 +1,49 @@
+{
+  "meetups": [
+    {
+      "id": "m1",
+      "title": "This is a first meetup",
+      "image": "https://source.unsplash.com/random",
+      "address": "Meetupstreet 5, 12345 Meetup City",
+      "description": "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!"
+    },
+    {
+      "id": "m2",
+      "title": "This is a second meetup",
+      "image": "https://source.unsplash.com/random",
+      "address": "Meetupstreet 5, 12345 Meetup City",
+      "description": "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!"
+    },
+    {
+      "title": "safdf",
+      "image": "https://source.unsplash.com/random",
+      "address": "asfasfd",
+      "description": "safsdafs",
+      "id": "fRXX-SW"
+    },
+    {
+      "title": "safdf",
+      "image": "https://source.unsplash.com/random",
+      "address": "asfasfd",
+      "description": "safsdafs",
+      "id": "UWRTf_u"
+    },
+    {
+      "title": "fggfd",
+      "image": "https://source.unsplash.com/random",
+      "address": "dfgdf",
+      "description": "dfgdf",
+      "id": "K9zOfN5"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
